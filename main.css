@@ -1,0 +1,39 @@
+body {
+	background: #a6a6a6;
+}
+
+h1	{
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+}
+
+a.btn {
+	background-image: url(https://c.radikal.ru/c04/2103/18/c862ffa8a4fc.png);
+	width: 197px;
+	height: 80px;
+	position: relative;
+	left:0;
+	right:0;
+	margin:0 auto;
+	display: inline-block;
+}
+
+a.btn:hover {
+	background-image: url(https://b.radikal.ru/b41/2103/18/c22cfb26639c.png);
+}
+
+a.btn2 {
+	background-image: url(https://d.radikal.ru/d28/2103/3d/e9fb99609637.png);
+	width: 197px;
+	height: 80px;
+	position: relative;
+	left:0;
+	right:0;
+	margin:0 auto;
+	display: inline-block;
+}
+
+a.btn2:hover {
+	background-image: url(https://c.radikal.ru/c20/2103/0c/5b0ed0592ce0.png);
+}
